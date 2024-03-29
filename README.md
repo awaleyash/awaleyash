@@ -4,7 +4,7 @@
    and sometimes not, well lets be honest- mostly not. 
 - 💞️ I’m looking to collaborate on creative projects.
 - 📫 People can reach me on 'awaleyash@gmail.com'
-- ⚡ Information: I live in India. I have done my barchelors degree in Mechanical Engineering.
+- ⚡ Information: I live in India. I have done my bachelors degree in Mechanical Engineering.
   Currently (that is on 30-03-2024), working as Senior Systems Engineer with one of the major IT company out of India.
 
 <!---
